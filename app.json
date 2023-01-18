@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo-eas-detox",
-    "slug": "expo-eas-detox",
+    "name": "ACME",
+    "slug": "acme",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

@@ -1,0 +1,18 @@
+{
+  "cli": {
+    "version": ">= 3.3.2"
+  },
+  "build": {
+    "test": {
+      "channel": "test",
+			"ios": {
+				"image": "latest",
+				"resourceClass": "m1-medium",
+				"simulator": true
+			}
+    }
+  },
+  "submit": {
+    "production": {}
+  }
+}
